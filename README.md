@@ -1,13 +1,13 @@
 ![logo](https://github.com/Kasif8148/Kasif8148/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Abu Saleh khan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Electronic Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasif8148&label=Profile%20views&color=0e75b6&style=flat" alt="kasif8148" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1ELSnVojtsrE-gSIxAX1OIAnvrfTZtroA](https://drive.google.com/drive/folders/1ELSnVojtsrE-gSIxAX1OIAnvrfTZtroA)
+- 👨‍💻 All of my projects are available at [Projects](https://drive.google.com/drive/folders/1ELSnVojtsrE-gSIxAX1OIAnvrfTZtroA)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **Digital and analog Electronics**
 
 - 📫 How to reach me **abusaleh8148@gmail.com**
 
